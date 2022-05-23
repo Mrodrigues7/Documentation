@@ -1,0 +1,33 @@
+---
+id: Creating-and-editing-articles-in-Github
+title: How to Create and edit articles in Github
+sidebar_label: Style Guide
+---
+
+To create a new article you should navigate to the desired parent folder in which you want to create it.
+Clicking on New file will open your new article.
+
+Image
+
+
+You should add a header section at the top of the page that should have an id (has to be the same name as file), the document title and a side bar label.
+
+---
+id: name of file
+title: Document title
+sidebar_label: Text that will appear in sidebar
+---
+
+
+Headers and sub headers should be used for better text format. You can follow our style guide to see all different options.
+
+
+After making your changes you should commit your file and start a pull request so our team can review it.
+
+image
+
+
+After your file approval it should show in the public site within minutes
+
+
+
