@@ -38,6 +38,8 @@ You can set multiple Rate Cards and Rate Cards columns in the same table.
 
 2. Click on the '+' icon.
 
+Testing changes
+
 
 <figure>
 
